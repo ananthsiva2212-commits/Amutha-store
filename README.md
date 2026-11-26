@@ -1,0 +1,2 @@
+# Amutha-store
+Allow 
